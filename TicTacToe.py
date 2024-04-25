@@ -30,7 +30,7 @@ CROSS_WIDTH = 25
 
 
 screen = pygame.display.set_mode((WIDTH,HEIGHT))
-pygame.display.set_caption("Fahad Never Lose")
+pygame.display.set_caption("I Never Lose")
 screen.fill(BLACK)
 
 
